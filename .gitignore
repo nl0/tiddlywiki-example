@@ -1,0 +1,4 @@
+/node_modules/
+/wiki/tiddlers/$__*
+!/wiki/tiddlers/$__SiteTitle.tid
+!/wiki/tiddlers/$__SiteSubtitle.tid

@@ -1,0 +1,8 @@
+{
+  "name": "your-name-here",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "tiddlywiki": "git://github.com/Jermolene/TiddlyWiki5.git"
+  }
+}
